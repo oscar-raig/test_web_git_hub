@@ -9,11 +9,13 @@ title: About
 
 Alguns dels camps que m'interessen són:
 
-* L'informàtica
-* L'electrònica
 * La història de catalunya i de la ciutat de Barcelona.
 * L'intel.ligència emocional, la productivitat
 * La narrativa
+* La cervesa artesana
+* La gastronomia
+* L'informàtica
+* L'electrònica
 
 
 Gràcies per llegir!!

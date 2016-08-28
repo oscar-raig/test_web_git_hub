@@ -11,7 +11,7 @@ description:         'El <a href="http://raig.cat" target="_blank">magatzem </a>
 url:                 http://raig.cat
 baseurl:             ''
 gems: [jekyll-paginate]
-paginate:            5
+paginate:            3
 paginate_path: "page:num"
 
 # About/contact
