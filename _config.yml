@@ -5,19 +5,19 @@ permalink:           pretty
 
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Oscar Raig
+tagline:             'El palau de la memòria'
+description:         'El <a href="http://raig.cat" target="_blank">magatzem </a> dels meus records. Escrit per <a href="https://twitter.com/oscar_raig" target="_blank">@oscar_raig</a>.'
+url:                 http://raig.cat
 baseurl:             ''
 paginate:            5
 paginate_path: "page:num"
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Oscar Raig
+  url:               https://twitter.com/oscar_raig
+  email:             oscar.raig@gmail.com
 
 # Custom vars
 version:             1.0.0
