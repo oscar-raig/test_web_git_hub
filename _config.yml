@@ -10,6 +10,7 @@ tagline:             'El palau de la memòria'
 description:         'El <a href="http://raig.cat" target="_blank">magatzem </a> dels meus records. Escrit per <a href="https://twitter.com/oscar_raig" target="_blank">@oscar_raig</a>.'
 url:                 http://raig.cat
 baseurl:             ''
+gems: [jekyll-paginate]
 paginate:            5
 paginate_path: "page:num"
 
