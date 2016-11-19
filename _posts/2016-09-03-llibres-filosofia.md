@@ -6,5 +6,5 @@ Kant: Crítica de la facultad de juzgar
 
 
 # Contemporanis
-Günther Anders
-Jürgen Habermas
+* Günther Anders
+* Jürgen Habermas
